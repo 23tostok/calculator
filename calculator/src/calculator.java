@@ -75,8 +75,8 @@ public class calculator {
                 System.out.println(result);
                 calc();
                 break;
+            /* Divide */   
             case 4:
-            /* Divide */
                 /* First number */
                 space();
                 System.out.println("ENTER A NUMBER.");
